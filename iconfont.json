@@ -1,0 +1,37 @@
+{
+  "id": "1885782",
+  "name": "daqiank",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13660539",
+      "name": "Down",
+      "font_class": "Down",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "1207827",
+      "name": "down",
+      "font_class": "down",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "6626177",
+      "name": "Menu",
+      "font_class": "Menu",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "356876",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    }
+  ]
+}
