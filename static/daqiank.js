@@ -13,7 +13,7 @@ if ($(".bdsharebuttonbox").length) {
 			"bdSize": "24"
 		},
 		share: [{
-			bdCustomStyle: "http://118.24.12.84:10002/style/css/share.css"
+			bdCustomStyle: "/style/css/share.css"
 		}]
 	};
 	with(document) {
@@ -23,12 +23,12 @@ if ($(".bdsharebuttonbox").length) {
 if ($(".thumb:first").data("src") || $(".widget_ui_posts .thumb:first").data("src")) {
 	$(".thumb").lazyload({
 		data_attribute: "src",
-		placeholder: "http://118.24.12.84:10002/style/images/thumbnail.png",
+		placeholder: "/style/images/thumbnail.png",
 		threshold: 400
 	});
 	$(".widget_ui_posts .thumb").lazyload({
 		data_attribute: "src",
-		placeholder: "http://118.24.12.84:10002/style/images/thumbnail.png",
+		placeholder: "/style/images/thumbnail.png",
 		threshold: 400
 	})
 }
