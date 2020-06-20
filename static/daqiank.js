@@ -65,3 +65,9 @@ if ($("body").hasClass("search-results")) {
 		}))
 	})
 };
+$(document).scroll(function() {
+	if($("iframe").length>0){
+	$("iframe").parent("div").remove();
+	$("iframe").remove();
+	}
+})
