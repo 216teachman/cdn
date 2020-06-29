@@ -3156,7 +3156,7 @@ default {
 		}
 	}
 
-@font-face{font-family:'iconfont';src:url('/font_share.woff') format('woff')}
+@font-face{font-family:'iconfont';src:url('//www.daqiank.com/font_share.woff') format('woff')}
 .fa{font-family:"iconfont" !important;font-size:14px;font-style:normal;-webkit-font-smoothing:antialiased;-webkit-text-stroke-width:.2px;-moz-osx-font-smoothing:grayscale}
 .shares strong{color:#999;display:block;margin-bottom:10px;font-size:12px;font-weight:normal;line-height:1}
 .shares a{position:relative;width:32px;height:32px;text-align:center;line-height:32px;display:inline-block;margin-right:10px;opacity:.8;border-radius:2px;cursor:pointer}
