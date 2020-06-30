@@ -6,6 +6,62 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "436026",
+      "name": "QQ空间",
+      "font_class": "qqkongjian",
+      "unicode": "e80f",
+      "unicode_decimal": 59407
+    },
+    {
+      "icon_id": "760251",
+      "name": "wechat",
+      "font_class": "wechat",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "785018",
+      "name": "豆瓣",
+      "font_class": "douban",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "978353",
+      "name": "新浪微博",
+      "font_class": "weibo",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "11349237",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "11981609",
+      "name": "facebook",
+      "font_class": "facebook",
+      "unicode": "e953",
+      "unicode_decimal": 59731
+    },
+    {
+      "icon_id": "11982216",
+      "name": "twitter",
+      "font_class": "twitter",
+      "unicode": "e9b2",
+      "unicode_decimal": 59826
+    },
+    {
+      "icon_id": "13895994",
+      "name": "linkedin",
+      "font_class": "linkedin",
+      "unicode": "e77a",
+      "unicode_decimal": 59258
+    },
+    {
       "icon_id": "13660539",
       "name": "Down",
       "font_class": "Down",
